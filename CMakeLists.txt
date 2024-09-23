@@ -5,7 +5,7 @@ set(CMAKE_CXX_STANDARD 14)
 
 include_directories(.)
 
-add_executable(Project2
+add_executable(Character-Battle
     Character.cpp
     Character.h
-    Project2.cpp)
+    main.cpp)
